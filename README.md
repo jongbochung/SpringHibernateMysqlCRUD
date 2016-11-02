@@ -5,7 +5,7 @@
 2. JDK1.8
 3. Tomcat7.0
 4. Maven3.2.2
-5. Oracle10g
+5. Mysql5.7
 6. Springframe work 3.2.4
 
 ##How to build
